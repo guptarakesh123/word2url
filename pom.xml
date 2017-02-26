@@ -43,7 +43,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>SearchVerticle</mainClass>
+							<mainClass>com.guptarakesh.word2url.SearchVerticle</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
