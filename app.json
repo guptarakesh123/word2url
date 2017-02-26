@@ -1,0 +1,6 @@
+{
+  "name": "word2url app",
+  "description": "app to shorten enterprise url's to one word",
+  "image": "heroku/java",
+  "addons": [  ]
+}
